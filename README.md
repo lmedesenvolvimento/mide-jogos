@@ -1,1 +1,21 @@
-# Recursos educacionais para o Ensino Fundamental para o Ensino de Português e Matemática
+# mide-jogos
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn run serve
+```
+
+### Compiles and minifies for production
+```
+yarn run build
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
